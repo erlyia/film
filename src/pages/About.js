@@ -1,5 +1,5 @@
 import '../main.css';
-import aboutPhoto from '../assets/about.jpg';
+import aboutPhoto from './IMG_5008.png';
 
 const content = {
     'about': {
@@ -27,6 +27,9 @@ function About() {
                     <div className="text-center">
                         <em>"quand ça vas pas, y aura toujours le cinéma"</em>
                     </div>
+                </div>
+                <div className="img">
+                    {/* <img src={require(aboutPhoto)} alt="about" /> */}
                 </div>
                 <div className="horizontal-container">
                     <div className="body">
