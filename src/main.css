@@ -1,0 +1,32 @@
+
+.container {
+    justify-content: center;
+    align-items: center;
+}
+
+.vertical-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.horizontal-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+.body {
+    width: 40%;
+}
+
+.image {
+    width: 210%;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 20px;
+}
