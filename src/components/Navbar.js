@@ -5,12 +5,12 @@ import './Navbar.css';
 const Navbar= () =>{
     return (
         <div>
-            <header class="vertical">
-                <div class="left">
+            <header className="vertical">
+                <div className="left">
                         film by erka
                 </div>
-                <div class="mid">
-                    <ul class="navbar">
+                <div className="mid">
+                    <ul className="navbar">
                         <li>
                         <Link to="/about">about</Link>
                         <Link to="/filmography">filmography</Link>

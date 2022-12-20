@@ -28,11 +28,10 @@ function About() {
                         <em>"quand ça vas pas, y aura toujours le cinéma"</em>
                     </div>
                 </div>
-                <div className="img">
-                    {/* <img src={require(aboutPhoto)} alt="about" /> */}
+                <div className="image">
+                    <img src={aboutPhoto} alt="about" width="20%"/>
                 </div>
-                <div className="horizontal-container">
-                    <div className="body">
+                <div className="body">
                     {content['about'].p1}
                     <br></br>
                     <br></br>
@@ -40,10 +39,6 @@ function About() {
                     <br></br>
                     <br></br>
                     {content['about'].p3}
-                    </div>
-                    {/* <div className="image">
-                        <img src={aboutPhoto} alt="about"> </img>        
-                    </div> */}
                 </div>
             </div>
         </div>

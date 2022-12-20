@@ -5,9 +5,9 @@ import './Socials.css';
 const Socials= () =>{
     return (
         <div>
-            <header class="vertical">
-                <div class="bottom">
-                    <ul class="navbar">
+            <header className="vertical">
+                <div className="bottom">
+                    <ul className="navbar">
                         <li>
                         <Link to="youtube.com/@filmbyerka">youtube</Link>
                         <Link to="instagram.com/filmbyerka">instagram</Link>
