@@ -9,7 +9,7 @@ const Socials= () =>{
                 <div className="bottom">
                     <ul className="navbar">
                         <li>
-                        <Link to="youtube.com/@filmbyerka">youtube</Link>
+                        <Link to="/youtube">youtube</Link>
                         <Link to="instagram.com/filmbyerka">instagram</Link>
                         <Link to="letterboxd.com/erikay">letterboxd</Link>
                         </li>

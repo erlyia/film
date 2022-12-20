@@ -14,13 +14,17 @@ function App() {
     
     <BrowserRouter>
     <Navbar />
-      <Routes>
-        <Route path="/" element={<About/>} />
-        <Route path="/about" element={<About/>} />
-        <Route path="/cinematography" element={<Cinematography/>} />
-        <Route path="/writing" element={<Writing/>} />
-        <Route path="/filmography" element={<Filmography/>} />
-      </Routes>
+    <Routes>
+      <Route path="/" element={<About/>} />
+      <Route path="/about" element={<About/>} />
+      <Route path="/cinematography" element={<Cinematography/>} />
+      <Route path="/writing" element={<Writing/>} />
+      <Route path="/filmography" element={<Filmography/>} />
+      <Route path='/youtube' component={() => {
+        window.location.href = 'https://youtube.com/@filmbyerka';
+    return null;
+}}/>
+    </Routes>
     <Socials />
     </BrowserRouter>
     </>
