@@ -20,10 +20,6 @@ function App() {
       <Route path="/cinematography" element={<Cinematography/>} />
       <Route path="/writing" element={<Writing/>} />
       <Route path="/filmography" element={<Filmography/>} />
-      <Route path='/youtube' component={() => {
-        window.location.href = 'https://youtube.com/@filmbyerka';
-    return null;
-}}/>
     </Routes>
     <Socials />
     </BrowserRouter>

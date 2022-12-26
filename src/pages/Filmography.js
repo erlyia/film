@@ -5,29 +5,26 @@ function Filmography() {
     return (
         <div className="container">
             <div className="vertical-container">
-                <div className="horizontal-container">
-                    <div className="shorts">
+                <div className="shorts">
                     <b>Explorations</b>
                     <br></br>
                     <em>where i experiment</em>
                     <br></br>
-                    <br></br>
-                    <p> <span className="hiddentxt">a reprise </span>
-                    <span className="hiddenimg"> <img src={aboutPhoto} alt="about" width="20%"/> </span>
-                    </p>
-                    <br></br>
-                    we're all mad here
-                    <br></br>
-                    bing bang bop
-                    <br></br>
-                    montauk in november
+                    <p> 
+                    <a href="https://www.youtube.com/watch?v=35HC7BRK5Ek">a reprise </a>
+                    </p>                        
+                    <p> 
+                    <a href="https://www.youtube.com/watch?v=u3ukqnO6djM">we're all mad here </a>
+                    </p>     
+                    <p> 
+                    <a href="https://www.youtube.com/watch?v=Nz9jmftxf2A">bing bang bop </a>
+                    </p>     
+                    <p> 
+                    <a href="https://www.youtube.com/watch?v=8dwX8Ws5VdE">montauk in november</a>
+                    </p>     
                     </div>
-                </div>
+            </div>
                 
-            </div>
-            <div className="body">
-
-            </div>
         </div>
     )
 }

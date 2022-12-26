@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import '../main.css';
 import './Socials.css';
 
@@ -9,9 +8,9 @@ const Socials= () =>{
                 <div className="bottom">
                     <ul className="navbar">
                         <li>
-                        <Link to="/youtube">youtube</Link>
-                        <Link to="instagram.com/filmbyerka">instagram</Link>
-                        <Link to="letterboxd.com/erikay">letterboxd</Link>
+                        <a href="https://youtube.com/@filmbyerka">youtube</a>
+                        <a href="https://instagram.com/filmbyerka">instagram</a>
+                        <a href="https://letterboxd.com/erikay">letterboxd</a>
                         </li>
                     </ul>
                 </div>
