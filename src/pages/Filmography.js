@@ -11,16 +11,16 @@ function Filmography() {
                     <em>where i experiment</em>
                     <br></br>
                     <p> 
-                    <a href="https://www.youtube.com/watch?v=35HC7BRK5Ek">a reprise </a>
+                    <a href="https://www.youtube.com/watch?v=35HC7BRK5Ek">a reprise <em>(dec. 2022)</em> </a>
                     </p>                        
                     <p> 
-                    <a href="https://www.youtube.com/watch?v=u3ukqnO6djM">we're all mad here </a>
+                    <a href="https://www.youtube.com/watch?v=u3ukqnO6djM">we're all mad here <em>(dec. 2022)</em></a>
                     </p>     
                     <p> 
-                    <a href="https://www.youtube.com/watch?v=Nz9jmftxf2A">bing bang bop </a>
+                    <a href="https://www.youtube.com/watch?v=Nz9jmftxf2A">bing bang bop <em>(nov. 2022)</em></a>
                     </p>     
                     <p> 
-                    <a href="https://www.youtube.com/watch?v=8dwX8Ws5VdE">montauk in november</a>
+                    <a href="https://www.youtube.com/watch?v=8dwX8Ws5VdE">montauk in november <em>(nov. 2022)</em></a>
                     </p>     
                     </div>
             </div>

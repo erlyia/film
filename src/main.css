@@ -1,6 +1,6 @@
 
 .container {
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
 }
 
@@ -8,8 +8,9 @@
     display: flex;
     flex-direction: column;
     padding: 20px;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
+    /* width: 30%; */
 }
 
 .horizontal-container {
@@ -66,3 +67,28 @@
 .shorts {
     padding-right: 20rem;
 }
+
+.image-card {
+    width: 12vw;
+    height: 9vw;
+    object-fit: cover;
+  }
+  
+  #lightbox-img {
+    height: 48vh;
+    max-width: 36vw;
+    object-fit: cover;
+  }
+  
+  #lightbox {
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
