@@ -72,6 +72,7 @@
     width: 12vw;
     height: 9vw;
     object-fit: cover;
+    padding:10px;
   }
   
   #lightbox-img {
@@ -91,4 +92,5 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
   }
