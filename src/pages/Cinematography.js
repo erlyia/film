@@ -25,26 +25,6 @@ import image19 from '../assets/shots/still-2023-01-10-15h31m37s243.png';
 
 const images = [image1, image2, image3, image4, image5, image6, image7, image8, image9, image10, image11, image12, image13, image14, image15, image16, image17, image18, image19];
 
-// const images = [
-//     {
-//         src: "",
-//         caption: ""
-//     },
-//     {
-//         src: "",
-//         caption: ""
-//     },
-//     {
-//         src: "",
-//         caption: ""
-//     }
-
-// ]
-
-const img_path = "../assets/shots";
-const imgs = []
-
-
 
 
 function Cinematography() {
@@ -111,7 +91,7 @@ function ImageGallery() {
 
   return (
     <>
-      <div>{imageCards}</div>
+      <div className="lb-container">{imageCards}</div>
       
       {
         lightboxDisplay ? 
