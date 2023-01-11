@@ -91,7 +91,7 @@ function ImageGallery() {
 
   return (
     <>
-      <div className="lb-container">{imageCards}</div>
+      <div>{imageCards}</div>
       
       {
         lightboxDisplay ? 

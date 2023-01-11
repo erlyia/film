@@ -1,3 +1,7 @@
+import nihilisticKilling from '../assets/files/a nihilisitic killing.pdf';
+import breathless from '../assets/files/Breathless Close Reading.pdf';
+import wanda from '../assets/files/Wanda Review.pdf'
+
 function Writing() {
 
     return (
@@ -18,13 +22,13 @@ function Writing() {
                     <em>written for various classes</em>
                     <br></br>
                     <p> 
-                    <a href="https://www.youtube.com/watch?v=35HC7BRK5Ek">A Review of Wanda</a>
+                    <a href={wanda} target='_blank' rel='noopener noreferrer'>A Review of Wanda</a>
                     </p>                        
                     <p> 
-                    <a href="https://www.youtube.com/watch?v=u3ukqnO6djM">Breathless: A Close Reading of the Road </a>
+                    <a href={breathless} target='_blank' rel='noopener noreferrer'>Breathless: A Close Reading of the Road </a>
                     </p>     
                     <p> 
-                    <a href="https://www.youtube.com/watch?v=Nz9jmftxf2A">A Nihilistic Killing </a>
+                    <a href={nihilisticKilling} target='_blank' rel='noopener noreferrer'>A Nihilistic Killing </a>
                     </p>        
                 </div>
             </div>
