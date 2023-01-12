@@ -5,9 +5,9 @@ const content = {
     'about': {
         p0:'Hi, I\'m Erika, and I don\'t really know what to put for an introduction these days. '
         + 'I\'m 21, but age changes every year. I\'ve been a student my whole life, but will officially graduate in a few months. '
-        + 'I\'m a software engineer? But that label doesn\'t feel right even though it\'s what I\'ve been studying for the past few years. ',
+        + 'Professionally, I\'m a software engineer? But that label doesn\'t feel right even though it\'s what I\'ve been studying for the past few years. ',
         p1:'There have become an increasingly few number of certainties in my life -' 
-        + 'or maybe I’ve just become more aware of the uncertainties.' 
+        + 'or maybe I’ve just become more aware of the uncertainties. ' 
         + 'Many times, I feel like I’m walking on thin ice - one wrong step and down into the depths I go. ' 
         + 'Or like I’m walking with my head barely above water. I can’t swim, so maybe that’s why these are the two specific scenarios that recur. '
         + 'However, amidst all the fog and fear of the future and whatever it may hold lies a singular certainty: the movies. ',
@@ -33,7 +33,7 @@ function About() {
                     </div>
                 </div>
                 <div className="image">
-                    <img src={aboutPhoto} alt="about" width="15%"/>
+                    <img src={aboutPhoto} alt="about" width="250rem"/>
                 </div>
                 <div className="body">
                     {content['about'].p0}

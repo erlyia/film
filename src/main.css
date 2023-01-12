@@ -22,7 +22,7 @@
 }
 
 .body {
-    width: 30%;
+    width: 50%;
 }
 
 .image {
@@ -65,7 +65,7 @@
 }
 
 .shorts {
-    width: 30%;
+    width: 30rem;
 }
 
 .heading {
@@ -80,8 +80,8 @@
     gap: 5px;
 }
 .image-card {
-    width: 16vw;
-    height: 9vw;
+    width: 32rem;
+    height: 18rem;
     object-fit: cover;
     justify-content: center;
     align-items: center;
@@ -109,5 +109,14 @@
 
 .gallery {
     justify-content: center;
-    align-self: center;
+    align-items: center;
+    padding-top: 15px;
+    /* padding-left:20vw; */
+}
+
+.photos {
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: center;
 }
