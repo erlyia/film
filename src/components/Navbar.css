@@ -24,7 +24,7 @@
 
 .mid {
     display: flex;
-    background-color: rgb(255, 237, 78);
+    background-color: rgb(255, 241, 118);
     width: 30rem;
     height: 20%;
     text-align: center;
@@ -50,8 +50,7 @@ color:rgb(247, 7, 7);
 }
 
 .left {
-background-color: rgb(255, 255, 255);
-display: inline-block;
+display: flex;
 width: 40%;
 font-size: 80px;
 font-weight: bolder;
@@ -59,8 +58,107 @@ padding: 18px 17px;
 color: #000000;
 font-family: Allison;
 text-align: center;
+justify-content: center;
+align-items: center;
 }
 
 .left a{
 text-decoration:none;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 20%;
+    right:10%;
+    /* left: 50%; */
+    width: 30rem;
+    z-index: -1;
+    transform: rotate(5deg);
+    margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .vertical {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .socials {
+        display: flex;
+        flex-direction: row;
+        font-size: 20px;
+        padding-bottom: 20px;
+        gap: 15px;
+    }
+    
+    .socials a{
+        text-decoration: none;
+        color:rgb(0, 0, 0);
+    }
+    
+    .icons {
+        padding:10px;
+    }
+    
+    .mid {
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(255, 241, 118);
+        width: 100%;
+        height: 20%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        font-size: 18px;
+        padding: 10px;
+        /* padding-bottom: 10px; */
+    }
+    
+    .mid a {
+        text-decoration: none;
+        color:rgb(0, 0, 0);
+    }
+        
+    .mid a:hover{
+    color:rgb(247, 7, 7);
+    }
+    
+    .mid a:focus{
+        color:rgb(247, 7, 7);
+    }
+    
+    .left {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-size: 80px;
+    font-weight: bolder;
+    padding: 18px 17px;
+    color: #000000;
+    font-family: Allison;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .left a{
+    text-decoration:none;
+    }
+    
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 20%;
+        right:10%;
+        /* left: 50%; */
+        width: 20rem;
+        z-index: -1;
+        transform: rotate(5deg);
+        margin: auto;
+    }
 }

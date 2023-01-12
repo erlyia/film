@@ -13,7 +13,7 @@ function Writing() {
                     <em>scripts for completed shorts</em>
                     <br></br>
                     <p> 
-                    tbd
+                    *tba
                     </p>                           
                 </div>
                 <div className="shorts">
