@@ -12,7 +12,7 @@ const content = {
         + 'Or like I’m walking with my head barely above water. I can’t swim, so maybe that’s why these are the two specific scenarios that recur. '
         + 'However, amidst all the fog and fear of the future and whatever it may hold lies a singular certainty: the movies. ',
         p2: 'Film has been the one unwavering rock in my life, a rock that has only gotten larger and more secure. ' 
-        + 'It\'s presumptuous to say film means everything to me, but it’s hard to describe what exactly film means to me. '
+        + 'It might be presumptuous to say film means everything to me, but it’s hard to describe what exactly film means to me. '
         + 'I’ve felt inextricable joy but also crushing melancholy at the theater. I’ve lived through experiences I will never actually live through. '
         + 'I’ve found pieces of myself reflected in made up characters that feel so incredibly real. '
         + 'The more I watch, the more I’ve realized how my many own stories I want to share and explore as well. ' 
