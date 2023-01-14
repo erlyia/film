@@ -25,7 +25,7 @@ import image20 from '../assets/shots/still-2023-01-13-19h15m32s736.png';
 import image21 from '../assets/shots/still-2023-01-13-19h18m24s016.png';
 
 
-const images = [image1, image2, image3, image4, image5, image6, image7, image18, image20, image21, image8, image9, image10, image11, image12, image13, image14, image15, image16, image17, image19];
+const images = [image1, image2, image3, image4, image5, image6, image7, image20, image18, image21, image8, image9, image10, image11, image12, image13, image14, image15, image16, image17, image19];
 
 
 

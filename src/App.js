@@ -4,13 +4,13 @@ import Cinematography from './pages/Cinematography.js';
 import Filmography from './pages/Filmography.js';
 import Writing from './pages/Writing.js';
 import Navbar from './components/Navbar.js';
-import { HashRouter, Routes, Route} from "react-router-dom";
+import { BrowserRouter, Routes, Route} from "react-router-dom";
 
 function App() {
   return (
     <>
     
-    <HashRouter>
+    <BrowserRouter>
     <Navbar />
     <Routes>
       <Route path="/" element={<About/>} />
@@ -19,7 +19,7 @@ function App() {
       <Route path="/writing" element={<Writing/>} />
       <Route path="/filmography" element={<Filmography/>} />
     </Routes>
-    </HashRouter>
+    </BrowserRouter>
     </>
   );
 }
