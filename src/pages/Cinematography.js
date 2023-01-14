@@ -13,7 +13,7 @@ import image8 from '../assets/shots/still-2023-01-10-15h11m56s676.png';
 import image9 from '../assets/shots/still-2023-01-10-15h12m37s420.png';
 import image10 from '../assets/shots/still-2023-01-10-15h13m49s867.png';
 import image11 from '../assets/shots/still-2023-01-10-15h14m46s453.png';
-import image12 from '../assets/shots/still-2023-01-10-15h17m52s670.png';
+import image12 from '../assets/shots/still-2023-01-10-15h13m20s846.png';
 import image13 from '../assets/shots/still-2023-01-10-15h18m23s697.png';
 import image14 from '../assets/shots/still-2023-01-10-15h19m33s940.png';
 import image15 from '../assets/shots/still-2023-01-10-15h22m05s348.png';
@@ -21,9 +21,11 @@ import image16 from '../assets/shots/still-2023-01-10-15h23m10s363.png';
 import image17 from '../assets/shots/still-2023-01-10-15h24m52s555.png';
 import image18 from '../assets/shots/still-2023-01-10-15h26m47s675.png';
 import image19 from '../assets/shots/still-2023-01-10-15h31m37s243.png';
+import image20 from '../assets/shots/still-2023-01-13-19h15m32s736.png';
+import image21 from '../assets/shots/still-2023-01-13-19h18m24s016.png';
 
 
-const images = [image1, image2, image3, image4, image5, image6, image7, image8, image9, image10, image11, image13, image14, image15, image16, image17, image18, image19];
+const images = [image1, image2, image3, image4, image5, image6, image7, image8, image9, image10, image11, image12, image13, image14, image15, image16, image17, image18, image19, image20, image21];
 
 
 

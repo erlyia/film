@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import About from './pages/About.js';
 import Cinematography from './pages/Cinematography.js';
@@ -14,11 +13,11 @@ function App() {
     <BrowserRouter>
     <Navbar />
     <Routes>
-      <Route path="/" element={<About/>} />
-      <Route path="/about" element={<About/>} />
-      <Route path="/cinematography" element={<Cinematography/>} />
-      <Route path="/writing" element={<Writing/>} />
-      <Route path="/filmography" element={<Filmography/>} />
+      <Route basename={process.env.PUBLIC_URL} path="/" element={<About/>} />
+      <Route basename={process.env.PUBLIC_URL} path="/about" element={<About/>} />
+      <Route basename={process.env.PUBLIC_URL} path="/cinematography" element={<Cinematography/>} />
+      <Route basename={process.env.PUBLIC_URL} path="/writing" element={<Writing/>} />
+      <Route basename={process.env.PUBLIC_URL} path="/filmography" element={<Filmography/>} />
     </Routes>
     </BrowserRouter>
     </>
