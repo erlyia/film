@@ -1,4 +1,8 @@
 
+body {
+    background-color: rgb(250, 247, 239);
+}
+
 .container {
     justify-content: center;
     align-items: center;
