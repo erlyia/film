@@ -15,5 +15,3 @@ jobs:
         with:
           target-branch: gh-pages
           build-dir: build
-        env: 
-          GITHUB_TOKEN: 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
