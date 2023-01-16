@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.43512db1.css",
-    "main.js": "/static/js/main.879887a7.js",
+    "main.css": "/static/css/main.0a507686.css",
+    "main.js": "/static/js/main.514c3989.js",
     "static/js/787.e3a3cbde.chunk.js": "/static/js/787.e3a3cbde.chunk.js",
     "static/media/a nihilisitic killing.pdf": "/static/media/a nihilisitic killing.b549e08f2f79e51db0a9.pdf",
     "static/media/still-2023-01-10-15h11m56s676.png": "/static/media/still-2023-01-10-15h11m56s676.12a9fb74d0dcdfb507db.png",
@@ -30,16 +30,16 @@
     "static/media/still-2023-01-10-15h18m23s697.png": "/static/media/still-2023-01-10-15h18m23s697.2ef864868f27ee22665c.png",
     "static/media/still-2023-01-10-15h08m00s253.png": "/static/media/still-2023-01-10-15h08m00s253.4e1107f2d2c0e4c272bc.png",
     "static/media/still-2023-01-10-15h07m40s829.png": "/static/media/still-2023-01-10-15h07m40s829.ef43f90ff66619d0451c.png",
-    "static/media/sig.png": "/static/media/sig.d508d8c68dd286a45be0.png",
     "static/media/Breathless Close Reading.pdf": "/static/media/Breathless Close Reading.9416707a8664e9271308.pdf",
+    "static/media/sig.png": "/static/media/sig.b2cc01b85409465d4c77.png",
     "static/media/Wanda Review.pdf": "/static/media/Wanda Review.d7c54ffffeec390192b4.pdf",
     "index.html": "/index.html",
-    "main.43512db1.css.map": "/static/css/main.43512db1.css.map",
-    "main.879887a7.js.map": "/static/js/main.879887a7.js.map",
+    "main.0a507686.css.map": "/static/css/main.0a507686.css.map",
+    "main.514c3989.js.map": "/static/js/main.514c3989.js.map",
     "787.e3a3cbde.chunk.js.map": "/static/js/787.e3a3cbde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43512db1.css",
-    "static/js/main.879887a7.js"
+    "static/css/main.0a507686.css",
+    "static/js/main.514c3989.js"
   ]
 }

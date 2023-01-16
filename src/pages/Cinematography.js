@@ -3,7 +3,7 @@ import '../main.css';
 import React, { useState } from "react";
 
 import image1 from '../assets/shots/still-2023-01-10-15h00m04s408.png';
-import image2 from '../assets/shots/still-2023-01-10-15h03m59s058.png';
+import image2 from '../assets/shots/still-2023-01-16-09h16m58s435.png';
 import image3 from '../assets/shots/still-2023-01-10-15h05m44s348.png';
 import image4 from '../assets/shots/still-2023-01-10-15h06m23s897.png';
 import image5 from '../assets/shots/still-2023-01-10-15h07m40s829.png';
