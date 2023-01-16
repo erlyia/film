@@ -1,0 +1,17 @@
+name: Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deployment:
+    runs-on: mac-latest
+    steps:
+      - run: npm run deploy
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target-branch: gh-pages
+          build-dir: build
