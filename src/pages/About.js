@@ -15,7 +15,7 @@ const content = {
         + 'It might be presumptuous to say film means everything to me, but it’s hard to describe what exactly film means to me. '
         + 'I’ve felt inextricable joy but also crushing melancholy at the theater. I’ve lived through experiences I will never actually live through. '
         + 'I’ve found pieces of myself reflected in made up characters that feel so incredibly real. '
-        + 'The more I watch, the more I’ve realized how my many own stories I want to share and explore as well. ' 
+        + 'The more I watch, the more I’ve realized how man of my own stories I want to share and explore as well. ' 
         + 'Many stories boil down to the same core concept, and what makes each story compelling is the creator’s unique perspective. ',
         p3: 'I don’t think I have anything profound to say, but I do have stories I want to tell and I hope to create works that resonate with others as so many have resonated with me. '
         + 'Here\'s to exploring these pockets of existence that compose our everyday lives.'
