@@ -14,7 +14,7 @@ const Navbar= () =>{
                         <div className="text">film by erka</div>
                 </div>
                 <div className="socials">
-                    <a href="https://https://vimeo.com/erikayang" target='_blank' rel='noopener noreferrer'><SiVimeo/></a>
+                    <a href="https://vimeo.com/erikayang" target='_blank' rel='noopener noreferrer'><SiVimeo/></a>
                     <a href="https://youtube.com/@filmbyerka" target='_blank' rel='noopener noreferrer'><SlSocialYoutube/> </a>
                     <a href="https://instagram.com/filmbyerka" target='_blank' rel='noopener noreferrer'><SlSocialInstagram/> </a>
                     <a href="https://letterboxd.com/erikay" target='_blank' rel='noopener noreferrer'><SiLetterboxd/></a>
