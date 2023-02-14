@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(250, 247, 239);
+    background-color: rgb(249, 242, 217);
 }
 
 .container {
@@ -25,6 +25,21 @@ body {
 
 }
 
+.h-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+
+}
+
+.carousel-container {
+    justify-content: center;
+    align-items: center;
+}
+
+
 .body {
     width: 50%;
     font-size: 16px;
@@ -42,16 +57,6 @@ body {
     font-size: 20px;
 }
 
-.hiddenimg {
-    display: none;
-}
-
-.hiddentxt:hover ~ .hiddenimg{
-    display: block;
-    /* position: absolute; */
-    width: 20%;
-    justify-content: center;
-}
 
 .block {
     display: flex;
@@ -81,7 +86,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: left;
+    align-items: center;
     gap: 5px;
 }
 .image-card {

@@ -1,6 +1,8 @@
 import nihilisticKilling from '../assets/files/a nihilisitic killing.pdf';
 import breathless from '../assets/files/Breathless Close Reading.pdf';
-import wanda from '../assets/files/Wanda Review.pdf'
+import wanda from '../assets/files/Wanda Review.pdf';
+import auteur from '../assets/files/auteurism_indigenous_cinema.pdf';
+import whatElse from '../assets/files/what else shooting script_v2.pdf'
 
 function Writing() {
 
@@ -13,7 +15,7 @@ function Writing() {
                     <em>scripts for completed shorts</em>
                     <br></br>
                     <p> 
-                    *tba
+                    <a href={whatElse} target='_blank' rel='noopener noreferrer'>What Else</a>
                     </p>                           
                 </div>
                 <div className="shorts">
@@ -21,6 +23,9 @@ function Writing() {
                     <br></br>
                     <em>written for various classes</em>
                     <br></br>
+                    <p> 
+                    <a href={auteur} target='_blank' rel='noopener noreferrer'>Identity, Auteurism, and Indigenous Cinema</a>
+                    </p>  
                     <p> 
                     <a href={wanda} target='_blank' rel='noopener noreferrer'>A Review of Wanda</a>
                     </p>                        

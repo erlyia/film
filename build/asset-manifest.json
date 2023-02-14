@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.509d3629.css",
-    "main.js": "/static/js/main.f18f4500.js",
+    "main.js": "/static/js/main.f7f00f6d.js",
     "static/js/787.e3a3cbde.chunk.js": "/static/js/787.e3a3cbde.chunk.js",
     "static/media/a nihilisitic killing.pdf": "/static/media/a nihilisitic killing.b549e08f2f79e51db0a9.pdf",
     "static/media/still-2023-01-10-15h11m56s676.png": "/static/media/still-2023-01-10-15h11m56s676.12a9fb74d0dcdfb507db.png",
@@ -35,11 +35,11 @@
     "static/media/Wanda Review.pdf": "/static/media/Wanda Review.d7c54ffffeec390192b4.pdf",
     "index.html": "/index.html",
     "main.509d3629.css.map": "/static/css/main.509d3629.css.map",
-    "main.f18f4500.js.map": "/static/js/main.f18f4500.js.map",
+    "main.f7f00f6d.js.map": "/static/js/main.f7f00f6d.js.map",
     "787.e3a3cbde.chunk.js.map": "/static/js/787.e3a3cbde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.509d3629.css",
-    "static/js/main.f18f4500.js"
+    "static/js/main.f7f00f6d.js"
   ]
 }
