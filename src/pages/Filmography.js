@@ -10,7 +10,7 @@ function Filmography() {
     return (
         <div className="container">
             <div className="vertical-container">
-            <div className="shorts">
+            {/* <div className="shorts">
                     <div className="heading">
                         <b> Shorts </b>
                     <br></br>
@@ -34,7 +34,7 @@ function Filmography() {
                         </Carousel>
                         </div>
                     </div>
-                    </div>            
+                    </div>             */}
                 <div className="shorts">
                     <div className="heading">
                         <b> Explorations </b>
