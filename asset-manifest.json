@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d2785edf.css",
-    "main.js": "/static/js/main.16703cdf.js",
+    "main.js": "/static/js/main.f8e204f2.js",
     "static/js/787.e3a3cbde.chunk.js": "/static/js/787.e3a3cbde.chunk.js",
     "static/media/a nihilisitic killing.pdf": "/static/media/a nihilisitic killing.b549e08f2f79e51db0a9.pdf",
     "static/media/still-2023-01-10-15h11m56s676.png": "/static/media/still-2023-01-10-15h11m56s676.12a9fb74d0dcdfb507db.png",
@@ -34,14 +34,15 @@
     "static/media/Breathless Close Reading.pdf": "/static/media/Breathless Close Reading.9416707a8664e9271308.pdf",
     "static/media/sig.png": "/static/media/sig.b2cc01b85409465d4c77.png",
     "static/media/Wanda Review.pdf": "/static/media/Wanda Review.d7c54ffffeec390192b4.pdf",
+    "static/media/remnants shotting script.pdf": "/static/media/remnants shotting script.a43e85f77447a45597e9.pdf",
     "static/media/what else shooting script_v2.pdf": "/static/media/what else shooting script_v2.05ec7526cd5c560274d0.pdf",
     "index.html": "/index.html",
     "main.d2785edf.css.map": "/static/css/main.d2785edf.css.map",
-    "main.16703cdf.js.map": "/static/js/main.16703cdf.js.map",
+    "main.f8e204f2.js.map": "/static/js/main.f8e204f2.js.map",
     "787.e3a3cbde.chunk.js.map": "/static/js/787.e3a3cbde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2785edf.css",
-    "static/js/main.16703cdf.js"
+    "static/js/main.f8e204f2.js"
   ]
 }
