@@ -2,7 +2,8 @@ import nihilisticKilling from '../assets/files/a nihilisitic killing.pdf';
 import breathless from '../assets/files/Breathless Close Reading.pdf';
 import wanda from '../assets/files/Wanda Review.pdf';
 import auteur from '../assets/files/auteurism_indigenous_cinema.pdf';
-import whatElse from '../assets/files/what else shooting script_v2.pdf'
+import whatElse from '../assets/files/what else shooting script_v2.pdf';
+import remnants  from '../assets/files/remnants shotting script.pdf'
 
 function Writing() {
 
@@ -14,6 +15,9 @@ function Writing() {
                     <br></br>
                     <em>scripts for completed shorts</em>
                     <br></br>
+                    <p> 
+                    <a href={remnants} target='_blank' rel='noopener noreferrer'>Remnants</a>
+                    </p>     
                     <p> 
                     <a href={whatElse} target='_blank' rel='noopener noreferrer'>What Else</a>
                     </p>                           

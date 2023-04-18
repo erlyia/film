@@ -4,7 +4,7 @@ import aboutPhoto from './IMG_5008.png';
 const content = {
     'about': {
         p0:'Hi, I\'m Erika, and I don\'t really know what to put for an introduction these days. '
-        + 'I\'m 21, but age changes every year. I\'ve been a student my whole life, but will officially graduate in a few months. '
+        + 'I\'m 22, but age changes every year. I\'ve been a student my whole life, but will officially graduate in a few months. '
         + 'Professionally, I\'m a software engineer? But that label doesn\'t feel right even though it\'s what I\'ve been studying for the past few years. ',
         p1:'There have become an increasingly few number of certainties in my life -' 
         + 'or maybe I’ve just become more aware of the uncertainties. ' 
