@@ -1,8 +1,6 @@
-import './App.css';
 import About from './pages/About.js';
-import Cinematography from './pages/Cinematography.js';
-import Filmography from './pages/Filmography.js';
-import Writing from './pages/Writing.js';
+import Work from './pages/Work.js'
+import Thoughts from './pages/Thoughts';
 import Navbar from './components/Navbar.js';
 import { HashRouter, Routes, Route} from "react-router-dom";
 
@@ -13,11 +11,10 @@ function App() {
     <HashRouter>
     <Navbar />
     <Routes>
-      <Route path="/" element={<About/>} />
+      <Route path="/" element={<Work/>} />
       <Route path="/about" element={<About/>} />
-      <Route path="/cinematography" element={<Cinematography/>} />
-      <Route path="/writing" element={<Writing/>} />
-      <Route path="/filmography" element={<Filmography/>} />
+      <Route path="/work" element={<Work/>} />
+      <Route path="/thoughts" element={<Thoughts/>} />
     </Routes>
     </HashRouter>
     </>
