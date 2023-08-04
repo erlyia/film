@@ -43,8 +43,12 @@ a:active {
     color: red;
 }
 
-a:visited {
+a {
     color: red;
+}
+
+a:visited {
+    color: rgb(19, 109, 205);
 }
 
 

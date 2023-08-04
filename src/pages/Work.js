@@ -1,4 +1,9 @@
 import Collapsible from "../components/Collapsible";
+import breathless from '../assets/files/Breathless Close Reading.pdf';
+import wanda from '../assets/files/Wanda Review.pdf';
+import auteur from '../assets/files/auteurism_indigenous_cinema.pdf';
+import killing from '../assets/files/a nihilisitic killing.pdf';
+
 
 function Work() {
 
@@ -29,7 +34,7 @@ function Work() {
                     </Collapsible>
                     <Collapsible label="Five, Three Weeks (2023) | Three-Channel Installation">
                     <p> My final project for an exhibition design/installation art class. It's extremely rough, but it was my first foray into something not entirely film. Centering around an existential contemplation of graduation and the struggles of staying present.</p>
-                    <p><a href="https://www.instagram.com/p/Cq8DQA7LOUy/?img_index=1">Thoughts on it</a></p>
+                    <p><a href="https://www.instagram.com/p/CsgS9F7g_B2/">Thoughts on it</a></p>
                     </Collapsible>
                     <Collapsible label="Anna Sun (2023) | Music Video">
                         <p> My first music video! A recreation of the original music video by 'Walk the Moon'</p>
@@ -52,10 +57,10 @@ function Work() {
                     <Collapsible label="Essays">
                         Essays written for various film studies classes
                         <ul>
-                            <li>A Nihilisic Killing</li>
-                            <li>Auteurism in Indigenous Cinema</li>
-                            <li>A Close Reading of Breathless</li>
-                            <li>Wanda Review</li>
+                            <li><a href={killing}>A Nihilisic Killing</a></li>
+                            <li><a href={auteur}>Auteurism in Indigenous Cinema</a></li>
+                            <li><a href={breathless}>A Close Reading of Breathless</a></li>
+                            <li><a href={wanda}>Wanda Review</a></li>
                         </ul>
                     </Collapsible>
                 </div>
