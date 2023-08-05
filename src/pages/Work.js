@@ -14,7 +14,7 @@ function Work() {
                 <div className="current-work"> 
                     <h3>What I'm working on right now</h3>
                     <Collapsible label="Letters">
-                        <p>An animated film about the friends who make us. Currently in the throes of animating. </p>
+                        <p>An animated film about the friends who make us. </p>
                     </Collapsible>
                     <Collapsible label="Run">
                         <p>Doing production and costume design for a short about a Vietnamese illegal immigrant who gets caught up in a Mexican drug cartel</p>

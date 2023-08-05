@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b831fc94.css",
-    "main.js": "/static/js/main.d333749f.js",
+    "main.css": "/static/css/main.731ddb22.css",
+    "main.js": "/static/js/main.8b76e226.js",
     "static/js/787.e3a3cbde.chunk.js": "/static/js/787.e3a3cbde.chunk.js",
+    "static/media/a nihilisitic killing.pdf": "/static/media/a nihilisitic killing.b549e08f2f79e51db0a9.pdf",
     "static/media/pfp.png": "/static/media/pfp.f2f8cf2c09761ca3eabc.png",
+    "static/media/auteurism_indigenous_cinema.pdf": "/static/media/auteurism_indigenous_cinema.a541086a4b20b6a9ccbc.pdf",
+    "static/media/Breathless Close Reading.pdf": "/static/media/Breathless Close Reading.9416707a8664e9271308.pdf",
     "static/media/sig.png": "/static/media/sig.b2cc01b85409465d4c77.png",
+    "static/media/Wanda Review.pdf": "/static/media/Wanda Review.d7c54ffffeec390192b4.pdf",
     "index.html": "/index.html",
-    "main.b831fc94.css.map": "/static/css/main.b831fc94.css.map",
-    "main.d333749f.js.map": "/static/js/main.d333749f.js.map",
+    "main.731ddb22.css.map": "/static/css/main.731ddb22.css.map",
+    "main.8b76e226.js.map": "/static/js/main.8b76e226.js.map",
     "787.e3a3cbde.chunk.js.map": "/static/js/787.e3a3cbde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b831fc94.css",
-    "static/js/main.d333749f.js"
+    "static/css/main.731ddb22.css",
+    "static/js/main.8b76e226.js"
   ]
 }
