@@ -17,7 +17,7 @@ function Work() {
                         <p>A documentary series painting the portraits of restaurant owners through the food they make </p>
                     </Collapsible>
                     <Collapsible label="Lost in Aisle 6">
-                        <p>Mother daughter relationship struggling with generational and cultural differences</p>
+                        <p>Mother-daughter relationship struggling with generational and cultural differences</p>
                     </Collapsible>
                     <Collapsible label="Golden Hour">
                         <p>An MIT Live cover of JVKE's 'Golden Hour'</p>
