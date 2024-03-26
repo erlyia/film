@@ -13,17 +13,14 @@ function Work() {
                 <div className="body-container">
                 <div className="current-work"> 
                     <h3>What I'm working on right now</h3>
-                    <Collapsible label="Letters">
-                        <p>An animated film about the friends who make us. </p>
-                    </Collapsible>
-                    <Collapsible label="Run">
-                        <p>Doing production and costume design for a short about a Vietnamese illegal immigrant who gets caught up in a Mexican drug cartel</p>
-                    </Collapsible>
-                    <Collapsible label="Remnants">
-                        <p>A short centering around a quiet reckoning of a relationship that never became more.</p>
+                    <Collapsible label="Behind the Menu">
+                        <p>A documentary series painting the portraits of restaurant owners through the food they make </p>
                     </Collapsible>
                     <Collapsible label="Lost in Aisle 6">
-                        <p>Potential feature? Still just a blurb of ideas for now but hoping to start writing soon.</p>
+                        <p>Mother daughter relationship struggling with generational and cultural differences</p>
+                    </Collapsible>
+                    <Collapsible label="Golden Hour">
+                        <p>An MIT Live cover of JVKE's 'Golden Hour'</p>
                     </Collapsible>
                 </div>
                 <div className="past-work">
